@@ -22,7 +22,7 @@ The Soil Analysis Backend is a RESTful API that processes soil data and provides
 ## Prerequisites
 - Node.js (version 14.x or later)
 - MongoDB (or another database of your choice)
-
+![alt text](image.png)
 ## Installation
 
 1. Clone the repository:
@@ -130,4 +130,3 @@ Feel free to modify this README to fit your specific project needs and any addit
 
 
 
-![alt text](image.png)
